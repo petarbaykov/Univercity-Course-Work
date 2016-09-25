@@ -1,2 +1,2 @@
 # Univercity-Course-Work
-6 Programming tasks for Course Work at Univercity of Plovdiv
+Course Work for Intro to Programming with C# at Univercity of Plovdiv
