@@ -1,0 +1,6 @@
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task229b\bin\Debug\Task229b.exe.config
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task229b\bin\Debug\Task229b.exe
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task229b\bin\Debug\Task229b.pdb
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task229b\obj\Debug\Task229b.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task229b\obj\Debug\Task229b.exe
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task229b\obj\Debug\Task229b.pdb

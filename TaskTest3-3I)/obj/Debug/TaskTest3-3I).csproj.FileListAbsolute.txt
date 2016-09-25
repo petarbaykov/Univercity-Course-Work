@@ -1,0 +1,6 @@
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\TaskTest3-3I)\bin\Debug\TaskTest3-3I).exe.config
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\TaskTest3-3I)\bin\Debug\TaskTest3-3I).exe
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\TaskTest3-3I)\bin\Debug\TaskTest3-3I).pdb
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\TaskTest3-3I)\obj\Debug\TaskTest3-3I).csprojResolveAssemblyReference.cache
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\TaskTest3-3I)\obj\Debug\TaskTest3-3I).exe
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\TaskTest3-3I)\obj\Debug\TaskTest3-3I).pdb

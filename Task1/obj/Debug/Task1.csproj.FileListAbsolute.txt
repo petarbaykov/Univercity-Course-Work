@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2015\Projects\CourseProject\Task1\bin\Debug\Task1.exe.config
+c:\users\petar\documents\visual studio 2015\Projects\CourseProject\Task1\bin\Debug\Task1.exe
+c:\users\petar\documents\visual studio 2015\Projects\CourseProject\Task1\bin\Debug\Task1.pdb
+c:\users\petar\documents\visual studio 2015\Projects\CourseProject\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2015\Projects\CourseProject\Task1\obj\Debug\Task1.exe
+c:\users\petar\documents\visual studio 2015\Projects\CourseProject\Task1\obj\Debug\Task1.pdb

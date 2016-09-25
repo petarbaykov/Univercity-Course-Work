@@ -1,0 +1,6 @@
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task36j\bin\Debug\Task36j.exe.config
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task36j\bin\Debug\Task36j.exe
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task36j\bin\Debug\Task36j.pdb
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task36j\obj\Debug\Task36j.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task36j\obj\Debug\Task36j.exe
+C:\Users\Petar\Documents\Visual Studio 2015\Projects\CourseProject\Task36j\obj\Debug\Task36j.pdb

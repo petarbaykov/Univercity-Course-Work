@@ -1,0 +1,5 @@
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\NestedLoops\bin\Debug\NestedLoops.exe.config
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\NestedLoops\bin\Debug\NestedLoops.exe
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\NestedLoops\bin\Debug\NestedLoops.pdb
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\NestedLoops\obj\Debug\NestedLoops.exe
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\NestedLoops\obj\Debug\NestedLoops.pdb

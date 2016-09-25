@@ -1,0 +1,5 @@
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\Task361\bin\Debug\Task361.exe.config
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\Task361\bin\Debug\Task361.exe
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\Task361\bin\Debug\Task361.pdb
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\Task361\obj\Debug\Task361.exe
+C:\Users\Petar\documents\visual studio 2015\Projects\CourseProject\Task361\obj\Debug\Task361.pdb
